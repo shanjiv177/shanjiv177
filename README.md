@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shanjiv177
-- 👀 I’m interested in Programming and learning all thing related Computing
+- 👀 I’m interested in Programming and learning all things related Computing
 - 🌱 I’m currently learning Technologies in Computing
 
 <!---
