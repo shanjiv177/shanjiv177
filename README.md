@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @shanjiv177
 - I am pursuing Computer Science and Engineering at the National Institute of Technology, Karnataka, Surathkal
-- I am currently learning web development
+- Systems Developer @ IRIS-NITK
+- I am currently working on project based on React and Hardhat
+- Learning concepts from systems and Web Development
