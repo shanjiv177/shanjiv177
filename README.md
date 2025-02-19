@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shanjiv177
-- I am pursuing Computer Science and Engineering at the National Institute of Technology, Karnataka, Surathkal
+- A Second Year UnderGrad Computer Science Student @ NITK-Surathkal
 - Systems Developer @ IRIS-NITK
-- Learning concepts from systems and Web Development
+- Learning Systems and Web Development
 - I have worked on a basic polling app which uses hardhat for the backend and react for frontend.
