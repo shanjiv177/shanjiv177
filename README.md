@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @shanjiv177
-- A Second Year UnderGrad Computer Science Student @ NITK-Surathkal
+- Second Year UnderGrad Computer Science Student @ NITK-Surathkal
 - Systems Developer @ IRIS-NITK
 - Learning Systems and Web Development
-- I have worked on a basic polling app which uses hardhat for the backend and react for frontend.
