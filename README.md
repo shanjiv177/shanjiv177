@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @shanjiv177
-- Second Year UnderGrad Computer Science Student @ NITK-Surathkal
+- UnderGrad Computer Science Student @ NITK-Surathkal
 - Systems Developer @ IRIS-NITK
 - Learning Systems and Web Development
